@@ -1,4 +1,4 @@
-package com.heibel.liveproject.salonapi.entity;
+package com.heibel.liveproject.salonapi;
 
 import javax.persistence.Entity;
 
